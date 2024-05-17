@@ -1,0 +1,3 @@
+net info
+
+npm i @react-native-community/netinfo
